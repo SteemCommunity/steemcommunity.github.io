@@ -1,6 +1,8 @@
 # steemcommunity.github.io
 Landing page for Steem Community https://steemcommunity.github.io
 
+Main GitHub: [github.com/SteemCommunity](https://github.com/SteemCommunity)
+
 ## Resources
 
 Discord resources:
